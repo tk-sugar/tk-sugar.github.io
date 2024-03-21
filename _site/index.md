@@ -64,6 +64,5 @@ IT業界で、フリーランスエンジニアをしています。
 
 # Contact
 - [FaceBook](https://www.facebook.com/tk0sugar/)
-- [Twitter](https://twitter.com/tofu_sugar)
 - [GitHub](https://github.com/tk-sugar)
 - [ブログ](https://app-engineer.hatenablog.com/)
